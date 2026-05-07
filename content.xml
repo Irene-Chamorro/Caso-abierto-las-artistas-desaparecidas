@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605072347553MFZI2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605072347558NW1RD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Caso abierto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Chamorro Román</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778190443293</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movzc7p9-1wzd1t02l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Las artistas desaparecidas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las artistas desaparecidas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso abierto: las artistas desaparecidas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Las artistas desaparecidas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7p9-1wzd1t02l</odePageId>
+      <odeBlockId>block-momwe0zw-9f5jrd60d</odeBlockId>
+      <blockName>Carta al alumnado del CEIP Maestro Genaro Rincón</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7p9-1wzd1t02l</odePageId>
+          <odeBlockId>block-momwe0zw-9f5jrd60d</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-9jrd0i3ai</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px; text-align: right;"></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 1414px;"><span style="font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;"></span></figure>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Estimado alumnado de 4 años de Infantil del CEIP Maestro Genaro Rincón, de Caleta de Vélez:</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Os escribo este mensaje para informaros de un terrible hecho que ha ocurrido en la biblioteca de nuestro querido pueblo, y es que, con motivo del Día de la Mujer, han sido robados de sus archivos una serie de documentos, carteles, cuentos, etc., en los que se recogía y exponía información muy importante sobre varias mujeres del mundo del arte y su contribución al mundo de la cultura.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Estas mujeres y sus vidas giran en torno a distintas disciplinas artísticas, como son: la pintura, la escultura, la literatura, la danza, la arquitectura y el diseño de moda.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Desde la biblioteca y el ayuntamiento de Vélez-Málaga están muy tristes con este robo, y aunque la policía está haciendo todo lo necesario para garantizar que esos documentos, carteles y archivos sean recuperados, son muchas las preguntas y pistas que siguen sin poder resolverse.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Es por esto que la policía ha tomado la decisión de pedir la ayuda del alumnado de la clase de 4 años de Infantil del CEIP Maestro Genaro Rincón, quienes, gracias a su inteligencia, pueden prestar su colaboración en la investigación de muchas formas, como, por ejemplo: 1) siguiendo pistas para recuperar algunos de los documentos robados; 2) buscando información en el colegio y en casa sobre las artistas; 3) elaborando nuevos carteles informativos, cuadros, Geniallys, etc., para exponerlos en la biblioteca y/o que sean accesibles para todos; etc.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Por favor, alumnado de 4 años, ¿querréis prestar vuestra ayuda en esta importante investigación?</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" title="">A continuación os dejamos las pistas para comenzar la investigación de una de las artistas desaparecidas: <span style="color: #3598db;"><a href="html/el-lunar-te-de-yayoi-kusama.html" style="color: #3598db;">El lunar-te de Yayoi Kusama</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-9jrd0i3ai","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px; text-align: right;\"></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 1414px;\"><span style=\"font-size: 12pt; color: #000000; font-family: arial, helvetica, sans-serif;\"></span></figure>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Estimado alumnado de 4 años de Infantil del CEIP Maestro Genaro Rincón, de Caleta de Vélez:</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Os escribo este mensaje para informaros de un terrible hecho que ha ocurrido en la biblioteca de nuestro querido pueblo, y es que, con motivo del Día de la Mujer, han sido robados de sus archivos una serie de documentos, carteles, cuentos, etc., en los que se recogía y exponía información muy importante sobre varias mujeres del mundo del arte y su contribución al mundo de la cultura.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Estas mujeres y sus vidas giran en torno a distintas disciplinas artísticas, como son: la pintura, la escultura, la literatura, la danza, la arquitectura y el diseño de moda.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Desde la biblioteca y el ayuntamiento de Vélez-Málaga están muy tristes con este robo, y aunque la policía está haciendo todo lo necesario para garantizar que esos documentos, carteles y archivos sean recuperados, son muchas las preguntas y pistas que siguen sin poder resolverse.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Es por esto que la policía ha tomado la decisión de pedir la ayuda del alumnado de la clase de 4 años de Infantil del CEIP Maestro Genaro Rincón, quienes, gracias a su inteligencia, pueden prestar su colaboración en la investigación de muchas formas, como, por ejemplo: 1) siguiendo pistas para recuperar algunos de los documentos robados; 2) buscando información en el colegio y en casa sobre las artistas; 3) elaborando nuevos carteles informativos, cuadros, Geniallys, etc., para exponerlos en la biblioteca y/o que sean accesibles para todos; etc.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Por favor, alumnado de 4 años, ¿querréis prestar vuestra ayuda en esta importante investigación?</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" title=\"\">A continuación os dejamos las pistas para comenzar la investigación de una de las artistas desaparecidas: <span style=\"color: #3598db;\"><a href=\"exe-node:page-movzc7pd-0fr1ppqy4\" style=\"color: #3598db;\">El lunar-te de Yayoi Kusama</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pd-0fr1ppqy4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El lunar-te de Yayoi Kusama</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El lunar-te de Yayoi Kusama</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El lunar-te de Yayoi Kusama</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pd-0fr1ppqy4</odePageId>
+      <odeBlockId>block-momwe0zw-68vv3t2ax</odeBlockId>
+      <blockName>Propuesta de investigación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pd-0fr1ppqy4</odePageId>
+          <odeBlockId>block-momwe0zw-68vv3t2ax</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-7lfwnt78f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Una de las artistas de la que sabemos que fueron robados muchos archivos de la biblioteca es la conocida Yayoi Kusama, una artista originaria de Japón, la cual ha dedicado su vida a múltiples disciplinas, como la pintura y la escultura, y cuyas obras de arte se han caracterizado siempre por tener muchísimos lunares.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Por ello, durante las siguientes semanas, estaremos investigando sobre esta artista todo lo que podamos, con el objetivo de aportar a la biblioteca del pueblo nueva información con la que sustituir toda la que fue sustraída.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;">A continuación se recoge toda la información acerca de la investigación que llevaremos a cabo, la cual puede ser consultada y/o utilizada por las familias del alumnado:</span></p>
+<ul>
+<li><span style="color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><a href="presentacion-de-la-sda.html" style="color: #3598db;" title="">Presentación de la Situación de Aprendizaje (SdA).</a></span></li>
+<li><span style="color: #3598db;"><a href="protegete-en-internet.html" style="color: #3598db;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" title="">Protégete en Internet.</span></a></span></li>
+<li><span style="color: #3598db;"><a href="tarea-o-producto-final.html" style="color: #3598db;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" title="">Tarea o producto final.</span></a></span></li>
+<li><span style="color: #3598db;"><a href="contenidos-para-consultar-y-trabajar.html" style="color: #3598db;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" title="">Contenidos para consultar y trabajar.</span></a></span></li>
+<li><span style="color: #3598db;"><a href="herramientas-de-uso-en-el-aula.html" style="color: #3598db;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" title="">Herramientas de uso en el aula.</span></a></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #3598db;"><a href="linea-temporal.html" style="color: #3598db;" title="">Línea temporal.</a></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #3598db;" title=""><a href="guia-didactica.html" style="color: #3598db;">Criterios de evaluación a tener en cuenta</a>.</span></li>
+<li><span style="color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 12pt;"><a href="instrumentos-de-evaluacion.html" style="color: #3598db;" title="">Instrumentos de evaluación.</a></span><br /></li>
+</ul>
+<p style="text-align: justify;"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;">Por último, y para que podáis iniciaros en la investigación sobre esta artista, se incluye un vídeo informativo sobre su vida:</span></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/dyxC14lseuk" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-7lfwnt78f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Una de las artistas de la que sabemos que fueron robados muchos archivos de la biblioteca es la conocida Yayoi Kusama, una artista originaria de Japón, la cual ha dedicado su vida a múltiples disciplinas, como la pintura y la escultura, y cuyas obras de arte se han caracterizado siempre por tener muchísimos lunares.</span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Por ello, durante las siguientes semanas, estaremos investigando sobre esta artista todo lo que podamos, con el objetivo de aportar a la biblioteca del pueblo nueva información con la que sustituir toda la que fue sustraída.</span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A continuación se recoge toda la información acerca de la investigación que llevaremos a cabo, la cual puede ser consultada y/o utilizada por las familias del alumnado:</span></p>\n<ul>\n<li><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><a href=\"exe-node:page-movzc7pf-byzmij811\" style=\"color: #3598db;\" title=\"\">Presentación de la Situación de Aprendizaje (SdA).</a></span></li>\n<li><span style=\"color: #3598db;\"><a href=\"exe-node:page-movzc7pg-sqluhg3vz\" style=\"color: #3598db;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" title=\"\">Protégete en Internet.</span></a></span></li>\n<li><span style=\"color: #3598db;\"><a href=\"exe-node:page-movzc7ph-inw2zdqcn\" style=\"color: #3598db;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" title=\"\">Tarea o producto final.</span></a></span></li>\n<li><span style=\"color: #3598db;\"><a href=\"exe-node:page-movzc7pi-7fmspcy5o\" style=\"color: #3598db;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" title=\"\">Contenidos para consultar y trabajar.</span></a></span></li>\n<li><span style=\"color: #3598db;\"><a href=\"exe-node:page-movzc7pj-o5am9qdos\" style=\"color: #3598db;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\" title=\"\">Herramientas de uso en el aula.</span></a></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #3598db;\"><a href=\"exe-node:page-movzc7pk-78a0swdpy\" style=\"color: #3598db;\" title=\"\">Línea temporal.</a></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #3598db;\" title=\"\"><a href=\"exe-node:page-movzc7pl-is2htp3wn\" style=\"color: #3598db;\">Criterios de evaluación a tener en cuenta</a>.</span></li>\n<li><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><a href=\"exe-node:page-movzc7pl-mnut2if1q\" style=\"color: #3598db;\" title=\"\">Instrumentos de evaluación.</a></span><br /></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Por último, y para que podáis iniciaros en la investigación sobre esta artista, se incluye un vídeo informativo sobre su vida:</span></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/dyxC14lseuk\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pf-byzmij811</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Presentación de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pf-byzmij811</odePageId>
+      <odeBlockId>block-momwe0zw-qju8psqn5</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pf-byzmij811</odePageId>
+          <odeBlockId>block-momwe0zw-qju8psqn5</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-coiorsvfm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #333333;">A continuación se incluye el enlace al documento que recoge todas las características de la Situación de Aprendizaje (SdA) que se estará trabajando en las siguientes semanas: </span><span style="color: #333333;"><span style="color: #3598db;"><a href="https://docs.google.com/document/d/12B4B_A6sM6_aQqIWvalDhIHm5MWjWbd4/edit?usp=sharing&ouid=104449076098942510514&rtpof=true&sd=true" target="_blank" rel="noopener" style="color: #3598db;" title="">El lunar-te de Yayoi Kusama</a></span></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-coiorsvfm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #333333;\">A continuación se incluye el enlace al documento que recoge todas las características de la Situación de Aprendizaje (SdA) que se estará trabajando en las siguientes semanas: </span><span style=\"color: #333333;\"><span style=\"color: #3598db;\"><a href=\"https://docs.google.com/document/d/12B4B_A6sM6_aQqIWvalDhIHm5MWjWbd4/edit?usp=sharing&ouid=104449076098942510514&rtpof=true&sd=true\" target=\"_blank\" rel=\"noopener\" style=\"color: #3598db;\" title=\"\">El lunar-te de Yayoi Kusama</a></span></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pg-sqluhg3vz</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Protégete en Internet</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protégete en Internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protégete en Internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pg-sqluhg3vz</odePageId>
+      <odeBlockId>block-1778155543451-s9ormhh1o</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pg-sqluhg3vz</odePageId>
+          <odeBlockId>block-1778155543451-s9ormhh1o</odeBlockId>
+          <odeIdeviceId>idevice-1778155543450-c061ssw0y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Si bien Internet nos ofrece muchas posibilidades para aprender, es importante saber que utilizarlo no está exento de riesgos. Aquí os dejo un enlace a un Genially que reúne una serie de consejos de uso: <span style="color: #3598db;"><a href="https://view.genially.com/69ea04cf0ff0b739502c0960" title="" style="color: #3598db;">Seguridad y licencias mientras uso Internet</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778155543450-c061ssw0y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Si bien Internet nos ofrece muchas posibilidades para aprender, es importante saber que utilizarlo no está exento de riesgos. Aquí os dejo un enlace a un Genially que reúne una serie de consejos de uso: <span style=\"color: #3598db;\"><a href=\"https://view.genially.com/69ea04cf0ff0b739502c0960\" title=\"\" style=\"color: #3598db;\">Seguridad y licencias mientras uso Internet</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7ph-inw2zdqcn</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Tarea o producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea o producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea o producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7ph-inw2zdqcn</odePageId>
+      <odeBlockId>block-1778156087660-fs6ey9rvu</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7ph-inw2zdqcn</odePageId>
+          <odeBlockId>block-1778156087660-fs6ey9rvu</odeBlockId>
+          <odeIdeviceId>idevice-1778156087659-ccrzywvxx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Familias, a continuación os dejo una explicación de la tarea que deberéis realizar en casa y qué herramienta tendréis que usar, todo ello de cara a la actividad o producto final sobre robótica que el alumnado realizará en el aula.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">En primer lugar, respecto a la herramienta que he escogido, esta es Genially, la cual permite elaborar contenido interactivo y animado online. El objetivo es que creéis una serie de presentaciones interactivas donde se vean obras artísticas de Yayoi Kusama, acompañadas de preguntas en formato audio, que el alumnado escuchará y deberá responder. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">El destino de estas presentaciones es el de ser usadas en la actividad de robótica, pues las direcciones web de estos Genially serán transformados en códigos QR que serán impresos y pegados en un tablero donde un robot será guiado por el alumnado. Al llegar el robot a las casillas de los códigos, estos serán escaneados por el alumnado para darles acceso a las presentaciones.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Los motivos que me han llevado a escoger esta herramienta para vosotros son varios:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-family: arial, helvetica, sans-serif;">Como sabéis, el alumnado tiene 4 años de media, por lo que posee una escasa competencia digital. Esto, unido a que se ha demostrado que la exposición a las pantallas no es positiva para los niños/as de estas edades por su inmadurez cognitiva, hace que haya preferido decantarme por esta herramienta, que será utilizada en realidad por vosotras, las familias, y en la cual se pueden elaborar plantillas cuyo contenido sólo debe ser sustituido, por lo que os exigirá poca competencia digital, un hardware sencillo, y conexión a Internet, algo que hoy en día nos ofrece cualquier teléfono móvil.</span><br /><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Debido a que seréis las familias quienes elaboraréis parte del producto final o actividad que después el alumnado realizará en el aula, la elección de esta herramienta no le exigirá al centro ningún tipo de instalación.</span><br /><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Se trata de una herramienta gratuita donde es fácil registrarse, pues sólo os pedirá un correo electrónico.</span><br /><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Permite introducir colaboradores en cualquier presentación que se cree, de forma que esta pueda ser copiada y usada como plantilla.</span><br /><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Permite que cualquier presentación sea hecha publica con una dirección web.</span><br /><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">Permite personalizar las presentaciones con fotos, imágenes y hacerlas interactivas con audios grabados, vídeos, etc.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Puede que lo que planteo parezca algo confuso, pues busco que vosotros elaboréis una parte del producto final, que es básicamente una actividad que luego el alumnado realizará en el aula conmigo. Sin embargo, esto se debe a las limitaciones que tiene el alumnado por sus características a estas edades.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Espero que os resulte interesante la propuesta que os hago, ya que así podréis participar de forma más activa en el proceso educativo.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778156087659-ccrzywvxx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Familias, a continuación os dejo una explicación de la tarea que deberéis realizar en casa y qué herramienta tendréis que usar, todo ello de cara a la actividad o producto final sobre robótica que el alumnado realizará en el aula.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">En primer lugar, respecto a la herramienta que he escogido, esta es Genially, la cual permite elaborar contenido interactivo y animado online. El objetivo es que creéis una serie de presentaciones interactivas donde se vean obras artísticas de Yayoi Kusama, acompañadas de preguntas en formato audio, que el alumnado escuchará y deberá responder. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">El destino de estas presentaciones es el de ser usadas en la actividad de robótica, pues las direcciones web de estos Genially serán transformados en códigos QR que serán impresos y pegados en un tablero donde un robot será guiado por el alumnado. Al llegar el robot a las casillas de los códigos, estos serán escaneados por el alumnado para darles acceso a las presentaciones.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Los motivos que me han llevado a escoger esta herramienta para vosotros son varios:</span></p>\n<ul style=\"text-align: justify;\">\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Como sabéis, el alumnado tiene 4 años de media, por lo que posee una escasa competencia digital. Esto, unido a que se ha demostrado que la exposición a las pantallas no es positiva para los niños/as de estas edades por su inmadurez cognitiva, hace que haya preferido decantarme por esta herramienta, que será utilizada en realidad por vosotras, las familias, y en la cual se pueden elaborar plantillas cuyo contenido sólo debe ser sustituido, por lo que os exigirá poca competencia digital, un hardware sencillo, y conexión a Internet, algo que hoy en día nos ofrece cualquier teléfono móvil.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Debido a que seréis las familias quienes elaboraréis parte del producto final o actividad que después el alumnado realizará en el aula, la elección de esta herramienta no le exigirá al centro ningún tipo de instalación.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Se trata de una herramienta gratuita donde es fácil registrarse, pues sólo os pedirá un correo electrónico.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Permite introducir colaboradores en cualquier presentación que se cree, de forma que esta pueda ser copiada y usada como plantilla.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Permite que cualquier presentación sea hecha publica con una dirección web.</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">Permite personalizar las presentaciones con fotos, imágenes y hacerlas interactivas con audios grabados, vídeos, etc.</span></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Puede que lo que planteo parezca algo confuso, pues busco que vosotros elaboréis una parte del producto final, que es básicamente una actividad que luego el alumnado realizará en el aula conmigo. Sin embargo, esto se debe a las limitaciones que tiene el alumnado por sus características a estas edades.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Espero que os resulte interesante la propuesta que os hago, ya que así podréis participar de forma más activa en el proceso educativo.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pi-7fmspcy5o</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Contenidos para consultar y trabajar</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos para consultar y trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos para consultar y trabajar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pi-7fmspcy5o</odePageId>
+      <odeBlockId>block-momwe0zw-vmvq3ka8b</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pi-7fmspcy5o</odePageId>
+          <odeBlockId>block-momwe0zw-vmvq3ka8b</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-ppvv3a67b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">A continuación os dejo insertado un muro de contenidos que he elaborado con la herramienta Padlet sobre Yayoi Kusama, y que podréis utilizar para consultar información sobre ella. Os aseguro que os será útil a la hora de elaborar las presentaciones de Genially.</span></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0px; margin: 0px; text-align: justify;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/7p7z9v7xbzjhamtk" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-ppvv3a67b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">A continuación os dejo insertado un muro de contenidos que he elaborado con la herramienta Padlet sobre Yayoi Kusama, y que podréis utilizar para consultar información sobre ella. Os aseguro que os será útil a la hora de elaborar las presentaciones de Genially.</span></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0px; margin: 0px; text-align: justify;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/7p7z9v7xbzjhamtk\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pj-o5am9qdos</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Herramientas de uso en el aula</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de uso en el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de uso en el aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pj-o5am9qdos</odePageId>
+      <odeBlockId>block-1778163459670-mmuzope4d</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pj-o5am9qdos</odePageId>
+          <odeBlockId>block-1778163459670-mmuzope4d</odeBlockId>
+          <odeIdeviceId>idevice-1778163459667-sedshbdaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;">A continuación os dejo un muro de contenido con algunas de las herramientas básicas que utilizo en el aula: <span style="color: #3598db;"><a href="https://www.symbaloo.com/mix/recursos-de-gestion-de-aula-eiuh" title="" style="color: #3598db;">Recursos de aula</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778163459667-sedshbdaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">A continuación os dejo un muro de contenido con algunas de las herramientas básicas que utilizo en el aula: <span style=\"color: #3598db;\"><a href=\"https://www.symbaloo.com/mix/recursos-de-gestion-de-aula-eiuh\" title=\"\" style=\"color: #3598db;\">Recursos de aula</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pk-78a0swdpy</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pk-78a0swdpy</odePageId>
+      <odeBlockId>block-momwe0zw-3dyt4d7dq</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pk-78a0swdpy</odePageId>
+          <odeBlockId>block-momwe0zw-3dyt4d7dq</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-05tp9fmtn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #333333;">En este apartado se incluye un enlace a la línea temporal de la SdA, es decir, a la sucesión de actividades que la conformarán: </span><span style="color: #3598db;"><a href="https://go.bubbl.us/f18017/1ecd?/SdA.-El-lunar-te-de-Yayoi-Kusama" style="color: #3598db;" title="">Línea temporal de la SdA</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-05tp9fmtn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #333333;\">En este apartado se incluye un enlace a la línea temporal de la SdA, es decir, a la sucesión de actividades que la conformarán: </span><span style=\"color: #3598db;\"><a href=\"https://go.bubbl.us/f18017/1ecd?/SdA.-El-lunar-te-de-Yayoi-Kusama\" style=\"color: #3598db;\" title=\"\">Línea temporal de la SdA</a></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pl-is2htp3wn</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pl-is2htp3wn</odePageId>
+      <odeBlockId>block-momwe0zw-3p0v060ae</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pl-is2htp3wn</odePageId>
+          <odeBlockId>block-momwe0zw-3p0v060ae</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-1p8796maq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="color: #333333;" title="">En este apartado queda incluido el enlace al documento que relaciona las distintas tareas que realizaremos con los criterios de evaluación escogidos para evaluar esta SdA: <span style="color: #3598db;"><a href="https://docs.google.com/document/d/1lexqmULBifokhpTHMoSm3C1vljE_aE7DIuoP38NHqAk/edit?tab=t.0#heading=h.v3kpl8zcktok" style="color: #3598db;">Tareas y criterios de evaluación</a></span> </span><span style="color: #333333;"></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-1p8796maq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"color: #333333;\" title=\"\">En este apartado queda incluido el enlace al documento que relaciona las distintas tareas que realizaremos con los criterios de evaluación escogidos para evaluar esta SdA: <span style=\"color: #3598db;\"><a href=\"https://docs.google.com/document/d/1lexqmULBifokhpTHMoSm3C1vljE_aE7DIuoP38NHqAk/edit?tab=t.0#heading=h.v3kpl8zcktok\" style=\"color: #3598db;\">Tareas y criterios de evaluación</a></span> </span><span style=\"color: #333333;\"></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pl-mnut2if1q</odePageId>
+  <odeParentPageId>page-movzc7pd-0fr1ppqy4</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pl-mnut2if1q</odePageId>
+      <odeBlockId>block-momwe0zw-2wswrl785</odeBlockId>
+      <blockName>El lunar-te de Yayoi Kusama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pl-mnut2if1q</odePageId>
+          <odeBlockId>block-momwe0zw-2wswrl785</odeBlockId>
+          <odeIdeviceId>idevice-momwe0zw-s3nzfhlcn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif; color: #333333;">A continuación se exponen los enlaces a los instrumentos de evaluación que estaré utilizando durante la SdA para valorar los aprendizajes del alumnado, así como otros aspectos:</span></p>
+<ul>
+<li title=""><span style="font-family: arial, helvetica, sans-serif; color: #3598db;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSffFS5KRBA6H_vbnNztjtpgBnvEao1bhN9a8zsMt1eC3JCXHg/viewform" style="color: #3598db;">Instrumento 1. Escala de valoración</a></span></li>
+<li title=""><span style="color: #3598db; font-family: arial, helvetica, sans-serif;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScjtO-ZLBXOJsNGNbBvH4vnADoxqLE4U_BSo2QnfuEVugDniA/viewform" style="color: #3598db;">Instrumento 2. Registro anecdótico</a></span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-momwe0zw-s3nzfhlcn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif; color: #333333;\">A continuación se exponen los enlaces a los instrumentos de evaluación que estaré utilizando durante la SdA para valorar los aprendizajes del alumnado, así como otros aspectos:</span></p>\n<ul>\n<li title=\"\"><span style=\"font-family: arial, helvetica, sans-serif; color: #3598db;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSffFS5KRBA6H_vbnNztjtpgBnvEao1bhN9a8zsMt1eC3JCXHg/viewform\" style=\"color: #3598db;\">Instrumento 1. Escala de valoración</a></span></li>\n<li title=\"\"><span style=\"color: #3598db; font-family: arial, helvetica, sans-serif;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScjtO-ZLBXOJsNGNbBvH4vnADoxqLE4U_BSo2QnfuEVugDniA/viewform\" style=\"color: #3598db;\">Instrumento 2. Registro anecdótico</a></span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movzc7pm-hrh9ezfyv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movzc7pm-hrh9ezfyv</odePageId>
+      <odeBlockId>block-1778164125818-s0s7c6nsi</odeBlockId>
+      <blockName>Datos principales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movzc7pm-hrh9ezfyv</odePageId>
+          <odeBlockId>block-1778164125818-s0s7c6nsi</odeBlockId>
+          <odeIdeviceId>idevice-1778164125816-6pylm0j94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado expongo los principales metadatos de este recurso:</p>
+<ul>
+<li><strong>Autoría: </strong>Irene Chamorro Román.</li>
+<li><strong>Título :</strong> Caso abierto: las artistas desaparecidas.</li>
+<li><strong>Subtítulo</strong>: El lunar-te de Yayoi Kusama.</li>
+<li><strong>Idioma</strong>: Castellano</li>
+<li><strong>Descripción</strong>: este recurso constituye el producto final del curso de B2 de Competencia Digital Docente. Esta elaborado para alumnado de 4 años de la etapa de Educación Infantil, y su centro de interés es la artista Yayoi Kusama.</li>
+<li><strong>Licencia</strong>: (CC BY-NC-SA). Se debe reconocer su autoría; no se permite el uso comercial de esta obra; sí se permite su modificación, pudiendo ser compartida siempre que sea bajo la misma licencia. </li>
+<li><strong>Destinatario</strong>: alumnado en general de la etapa de Educación Infantil.</li>
+<li><strong>Área de conocimiento</strong>: Crecimiento en Armonía (CA), Descubrimiento y Exploración del Entorno (DEE), y Comunicación y Representación de la Realidad (CRR).</li>
+<li><strong>Tipo de recurso</strong>: Aprendizaje Basado en Proyectos (ABP).</li>
+<li><strong>Agrupación del alumno</strong>: individual (en familia).</li>
+<li><strong>Lugar de uso</strong>: domicilio</li>
+<li><strong>Modalidad de us</strong>o: distancia</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778164125816-6pylm0j94","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado expongo los principales metadatos de este recurso:</p>\n<ul>\n<li><strong>Autoría: </strong>Irene Chamorro Román.</li>\n<li><strong>Título :</strong> Caso abierto: las artistas desaparecidas.</li>\n<li><strong>Subtítulo</strong>: El lunar-te de Yayoi Kusama.</li>\n<li><strong>Idioma</strong>: Castellano</li>\n<li><strong>Descripción</strong>: este recurso constituye el producto final del curso de B2 de Competencia Digital Docente. Esta elaborado para alumnado de 4 años de la etapa de Educación Infantil, y su centro de interés es la artista Yayoi Kusama.</li>\n<li><strong>Licencia</strong>: (CC BY-NC-SA). Se debe reconocer su autoría; no se permite el uso comercial de esta obra; sí se permite su modificación, pudiendo ser compartida siempre que sea bajo la misma licencia. </li>\n<li><strong>Destinatario</strong>: alumnado en general de la etapa de Educación Infantil.</li>\n<li><strong>Área de conocimiento</strong>: Crecimiento en Armonía (CA), Descubrimiento y Exploración del Entorno (DEE), y Comunicación y Representación de la Realidad (CRR).</li>\n<li><strong>Tipo de recurso</strong>: Aprendizaje Basado en Proyectos (ABP).</li>\n<li><strong>Agrupación del alumno</strong>: individual (en familia).</li>\n<li><strong>Lugar de uso</strong>: domicilio</li>\n<li><strong>Modalidad de us</strong>o: distancia</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
